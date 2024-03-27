@@ -2,7 +2,7 @@
 
 ### Solutions:
 
-1. <img src="\images\exercicio1.png"></img>
+<img src="\images\exercicio1.png">1. </img>
 2. <img src=""></img>
 3. <img src=""></img>
 4. <img src=""></img>
