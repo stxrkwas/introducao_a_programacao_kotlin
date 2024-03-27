@@ -4,5 +4,5 @@
 }*/
 
 fun main(){
-      println("Cloudy \nPartly Cloudy \nWindy")
+  println("Cloudy \nPartly Cloudy \nWindy")
 }
