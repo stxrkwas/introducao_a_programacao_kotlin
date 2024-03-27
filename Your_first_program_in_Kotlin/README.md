@@ -2,14 +2,11 @@
 
 ### Solutions:
 
-1.
-   <img src="\images\exercicio1.png"></img>
+   <img src="\images\exercicio1.png"></img></br></br>
+   <img src="\images\exercicio2.png"></img></br></br>
+   <img src="\images\exercicio3.png"></img></br></br>
+   <img src="\images\exercicio4.png"></img></br></br>
+   <img src="\images\exercicio5.png"></img></br></br>
+   <img src="\images\exercicio6.png"></img></br></br>
+   <img src="\images\exercicio7.png"></img></br></br>
 
-2.
-   <img src="\images\exercicio2.png"></img>
-
-4. <img src=""></img>
-5. <img src=""></img>
-6. <img src=""></img>
-7. <img src=""></img>
-8. <img src=""></img>
