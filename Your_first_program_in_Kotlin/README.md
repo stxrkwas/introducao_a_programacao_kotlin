@@ -3,6 +3,7 @@
 ### Solutions:
 
    <img src="\images\exercicio1.png"></img></br></br>
+   ---------------------------------------------------
    <img src="\images\exercicio2.png"></img></br></br>
    <img src="\images\exercicio3.png"></img></br></br>
    <img src="\images\exercicio4.png"></img></br></br>
